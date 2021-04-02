@@ -1,3 +1,5 @@
-.Pokedex {
-    margin : 10px;
+.Pokedex-cards {
+    display : flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }

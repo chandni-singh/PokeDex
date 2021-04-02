@@ -1,4 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
 body {
+    margin : 0;
+    padding : 0;
     background-color: #eceff1;
     color : #4d4d4d;
+    font-family: 'Work Sans';
+}
+
+code {
+    font-family: 'Courier New', monospace;
 }
